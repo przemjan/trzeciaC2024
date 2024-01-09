@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class StringiDemo {
     public static void main(String[] args) {
 

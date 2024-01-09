@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Zmienne {
     public static void main(String[] args) {
 
@@ -34,7 +36,13 @@ public class Zmienne {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/trzeciaC2024
 
+        //   \\ubuckp
+
+        // public/
+        //Podstawowa składnia i struktury wybranych języków programowania.
+        // Proste algorytmy.
 
     }
 }
